@@ -1,0 +1,1 @@
+Namespace(batchsize=10, cform=0.0, classias=0.0, conv_width=2, data_size=100, decay_rate=0.001, drop_ratio=0.5, filters=200, first=0.0, gpu=-1, last=0.0, model='model', seed=1, surface=0.0, test='./../input_data/dev.ff', tgt=0.0, tgt_center=False, tgt_sentence=0.0, train='./../input_data/dev.ff', units=50, validation_depth=10)
